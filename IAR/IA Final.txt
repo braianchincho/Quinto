@@ -1,0 +1,51 @@
+Tenia promo praxtica VENCIDA pero le menti un poco y me la considero asi q el practico no les puedo decir casi nada aunqie desde lejos parecian los mismostemas q venian saliendo: búsqueda,  planificacion y nose el otro ejercicio.
+
+Teorico:
+
+-Complejidad temporal, dar ejemplos, concepto.
+-Convolucion, mascaras, utilidad de este metodo, forma de calculo.
+-Funcion de membresia de lógica difusa, nombrar al menos dos operadores.
+
+Chicos en el  practico tomaron :
+-Árbol Primero el mejor para mínimo(simple ...simple, árbol con pesos hacer el camino cerrado  el abierto y listo)
+-Planificación (había que mover un cubo que estaba en la mesa y apilarlo sobre otro...ahi no se que onda como que yo puse tomar y apilar, pero algo me corrigió de ahí, vi de refilón, pero no se que ...me puso 8 en el practico y por algo de eso) (Muyyyyyyyy simple)
+-Aplicar Filtro de mediana a un vector como de 10 , o mas y había que aplicarle una ventana de 5(básicoooooo)
+Teórico lo que comentaron los chicos arriba.
+Aprobamos los tres que nos presentamos.
+
+18-02-2013
+- Convolución de Imágenes Digitales 
+- Clasificador polinomial: Fundamentos, graficar un clasificador polinomial con vector de entradas de 2do orden y explicar el funcionamiento  
+- Función de membrecía de lógica difusa: explique qué significa, enumerar y definir al menos dos operadores difusos 
+
+04-02-2013
+-Complejidad temporal 
+-Adeline y perceptron 
+-convolucion de imagen
+ 
+03-12-2012
+- Convolución de imagenes digitales. 
+- Definir que tenian en común y diferencias entre, Clasificador Polinomial, 
+-- Definir semejanzas y diferencias entre Clasificador Polinomial, Máquina 
+de soporte vectorial y redes BASADAS en Perceptrón. 
+- Complejidad temporal. Concepto, ejemplos, discutir algoritmos por lo 
+menos 3, y elegir un algoritmo y definir su funcion O(n). 
+
+28-10-2012
+Explique complejidad temporal. Concepto. Nombrar  algoritmos y debatir diferencias sobre la complejidad temporal.
+Convolucion de imagen digital. Concepto, fundamento, aplicacion.
+Funcion de Membresia en logica difusa. Concepto, aplicacion. Nombre 2 operadores difusos y explique.
+
+23-07-2012
+- Convolución (3 puntos) 
+- Clasificador polinomial (4 puntos) 
+   Fundamentos, graficar un clasificador polinomial con vector de entradas 
+de 2do dimension y explicar el funcionamiento (más o menos eso es lo que 
+recuerdo) 
+- Función de membresia (3 puntos) 
+    Enumerar y definir al menos dos operadores difusos 
+
+07-2011
+- Adaline 
+- Histograma, ecualización 
+- Complejidad temporal (o el otro no recuerdo) 
